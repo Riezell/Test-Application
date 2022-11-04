@@ -1,0 +1,165 @@
+{
+    "questions": [{
+            "questionText": "What would you say when leaving?",
+            "options": [{
+                    "text": "Auf Wierdehesen!",
+                    "correct": true
+                },
+                {
+                    "text": "Hallo"
+                },
+                {
+                    "text": "Guten Tag!"
+                },
+                {
+                    "text": "Es tut mir lied"
+                }
+            ],
+            "explanation": " Auf Wierdehesen is used to express farewell."
+        },
+        {
+            "questionText": "What would you say when parting with a friend?",
+            "options": [{
+                    "text": "Guten Abend!"
+                },
+                {
+                    "text": "acht"
+                },
+                {
+                    "text": "Heißen "
+                },
+                {
+                    "text": "Tschüss!",
+                    "correct": true
+                }
+            ],
+            "explanation": "Tschüss is a standard goodbye in all but official situations"
+        },
+        {
+            "questionText": "How would you greet in the morning?",
+            "options": [{
+                    "text": "Gutend Abend!"
+                },
+                {
+                    "text": "Guten Morgen!",
+                    "correct": true
+                },
+                {
+                    "text": "Tschüss!"
+                },
+                {
+                    "text": "Guten Tag!"
+                }
+            ],
+            "explanation": "Guten Morgen is the most common way of saying good morning in German."
+        },
+        {
+            "questionText": "What does 'Guten Tag' mean?",
+            "options": [{
+                    "text": "das"
+                },
+                {
+                    "text": "Good day!",
+                    "correct": true
+                },
+                {
+                    "text": "Guten Abend"
+                },
+                {
+                    "text": "keine"
+                }
+            ],
+            "explanation": "Guten Tag“ is the greeting phrase used between the morning and evening - similar to „Good afternoon“ !it also includes forenoon and noon."
+        },
+        {
+            "questionText": "What does 'Wie heißen Sie?' mean?",
+            "options": [{
+                    "text": "How are you called?(formal)",
+                    "correct": true
+                },
+                {
+                    "text": "How is he?"
+                },
+                {
+                    "text": "How am i called?"
+                },
+                {
+                    "text": "Wer ist das?"
+                }
+            ],
+            "explanation": "Sie' is the formal pronoun in the German language."
+        },
+        {
+            "questionText": "What does 'Mein Name ist...' mean?",
+            "options": [{
+                    "text": "His name is..."
+                },
+                {
+                    "text": "Her name is..."
+                },
+                {
+                    "text": "Your name is..."
+                },
+                {
+                    "text": "My name is...",
+                    "correct": true
+                }
+            ],
+            "explanation": "'Mein Name ist...' mean is the German of 'My name is'."
+        },
+        {
+            "questionText": "'Geht’s' is short for what?",
+            "options": [{
+                    "text": "wir"
+                },
+                {
+                    "text": "geht es",
+                    "correct": true
+                },
+                {
+                    "text": "Wie gehts?"
+                },
+                {
+                    "text": "none"
+                }
+            ],
+            "explanation": "Geht es is is short for Geht’s"
+        },
+        {
+            "questionText": "How do you say 'I' in German?",
+            "options": [{
+                    "text": "Ich",
+                    "correct": true
+                },
+                {
+                    "text": "Sie"
+                },
+                {
+                    "text": "du"
+                },
+                {
+                    "text": "wir"
+                }
+            ],
+            "explanation": "Ich is the translation of 'I'"
+        },
+        {
+            "questionText": "How do you say 'you' in German?",
+            "options": [{
+                    "text": "du",
+                    "correct": true
+                },
+                {
+                    "text": "ich"
+                },
+                {
+                    "text": "sie"
+                },
+                {
+                    "text": "Sie"
+                }
+            ],
+            "explanation": "Du is the translation of you."
+        }
+    ]
+}

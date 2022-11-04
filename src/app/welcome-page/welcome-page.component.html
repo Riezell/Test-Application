@@ -1,0 +1,19 @@
+<div class="container bg-light py-5">
+    <h1 class="display-5 fw-bold" style="font-style: oblique ;">Welcome to Online Exam</h1>
+    <p class="col-md-8 fs-4">This exam will test your knowledge in speaking the German Language.All the questions are extracted to what we've learned in our lessons,
+        it has 5 questions and each of them holds a 10 points.It is easy so no need to review just answer and pass the exam.</p>
+    <h4>Rules:</h4>
+    <ol>
+        <li>Correct answer 10 points.</li>
+        <li>Answer each question within 1 minute.</li>
+        <li>Don't refresh the page it will reset the exam.</li>
+        <li>Answer correctly.</li>
+        <li>Pray before you start the exam.</li>
+    </ol>
+    <h1 style="font-family:cursive;text-align:center;">Goodluck!!</h1>
+    <div class="name col-md-4 my-3">
+        <label for="">Enter your name:</label>
+        <input #name type="text" class="form-control"/>
+    </div>
+    <button class="btn btn-primary btn-lg" routerLink="/question" (click)="proceedQuiz()">Proceed!!</button>
+</div>
